@@ -1,6 +1,10 @@
 # todo-express-mvc-api
 A RESTful todo API built with express and mongoose using the MVC architecture. I use this for testing and learning frontend technologies. 
 
+## Assumptions
+mongodb is installed locally
+
+## Installation
 
 Clone this repo
 
